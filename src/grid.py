@@ -68,3 +68,6 @@ class Grid:
         """Returnerar True om det inte finns något på aktuell ruta"""
         return self.get(x, y) == self.empty
 
+
+
+
