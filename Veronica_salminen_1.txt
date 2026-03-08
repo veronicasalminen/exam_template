@@ -1,0 +1,18 @@
+Github repository:
+https://github.com/veronicasalminen/exam_template.git
+
+Kraven jag arbetat med är:
+- Spelaren börjar i mitten
+- Rörelse med WASD
+- Kan inte gå igenom väggar
+- Frukter ger 20 poäng
+- Kommando "i" visar inventory
+- Golvet är lava, -1 poäng för varje steg
+- Väggar skapade som inte går att gå igenom
+
+utöver grundkraven har jag lagt till
+- grace period, efter man plockat upp en frukt får man gå 5 steg utan att förlora poäng
+- Ett försök till exit, men den fungerar ej då kod saknas.
+
+
+Spelet går att köra utan fel och filerna finns i repot. Enda funktion som inte fungerar är 'E' (exit).
